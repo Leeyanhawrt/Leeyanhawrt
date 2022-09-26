@@ -8,6 +8,7 @@
 <p>🏋️ Powerlift 🏋️</p>
 <p>🚣 Paddle 🚣</p>
 <p>🎲 Boardgames / Escape Rooms 🎲</p>
+<p> 🏂 Snowboarding 🏂</p>
 </div>
 <div id="badges" align="center" >
   <a href="https://linkedin.com/in/leeyan-haw" >
