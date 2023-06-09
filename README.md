@@ -3,7 +3,8 @@
     Hello Everyone!
     <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a47aac1b6e8a5687f01361b8c8945718d875ff64&rid=giphy.gif&ct=s" width="30px" />
   </h1>
-<h4>I'm Leeyan, a Full stack Web Developer transitioning from the Logistics and Marketing field. Experienced in developing and maintaining a technology education CRM, website, and CMS. </h4>
+<h4>I'm Leeyan, a Full stack Web Developer transitioning from the Logistics and Marketing field.</h4>
+<h4>Experienced in developing and maintaining a technology education CRM, website, and CMS.</h4>
 <p>Interests:</p>
 <p>🏋️ Powerlift 🏋️</p>
 <p>🚣 Paddle 🚣</p>
