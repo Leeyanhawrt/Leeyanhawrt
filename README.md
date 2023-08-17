@@ -23,11 +23,6 @@
   </a>
 </div>
 
-<div id="stats" align="center" >
-  <h2>Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=leeyanhawrt&theme=github_dark&show_icons=true" />
-</div >
-
 <div id="skills" align="center" >
   <h2>Languages and Tools</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="" alt="" height="50px" width="50px" />&nbsp
